@@ -233,7 +233,7 @@ h6 {
   padding: 5rem 0;
 }
 .services {
-  background: var(--darkGrey);
+  background: var(--offWhite);
   text-align: center;
 }
 .services-center {
@@ -298,7 +298,6 @@ h6 {
 /* end pf featured rooms */
 /* room */
 .room {
-  box-shadow: var(--lightShadow);
   transition: var(--mainTransition);
 }
 .room:hover {
