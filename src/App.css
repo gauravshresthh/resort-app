@@ -510,4 +510,18 @@ h6 {
     max-width: 1170px;
   }
 }
+
+.footer {
+  height: 8vh;
+  width: 100%;
+  background-color: var(--offWhite);
+  text-transform: capitalize;
+}
+
+.footer h5 {
+  color: grey;
+  float: right;
+  padding-right: 5vw;
+  padding-top: 2vh;
+}
 /* end of rooms fitler*/
